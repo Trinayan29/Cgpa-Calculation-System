@@ -9,3 +9,13 @@ This C++ project is a CGPA (Cumulative Grade Point Average) Calculator designed 
 - Simple and interactive console interface suitable for beginners to understand C++ fundamentals, including arrays, loops, and functions.
 
 This tool is especially useful for students wanting an easy-to-use program for academic self-evaluation or for those learning C++ programming basics.
+
+Prepared by : 
+1.Trinayan Kashyap (ADTU/0/2025-29/BCSM/018)
+2.Tanmay Jyoti Saikia (ADTU/0/2025-29/BCSM/038)
+3.Punar Karkedolee (ADTU/0/2025-29/BCSM/048)
+4.Udipta Ranjan Gogoi (ADTU/1/2025-29/BCSM/001)
+5.Abantika Ray (ADTU/0/2025-29/BCSM/026)
+6.Sagarika Roy (ADTU/1/2025-29/BCSM/078)
+7.Mishrita Das (ADTU/0/2025-29/BCSM/052)
+
